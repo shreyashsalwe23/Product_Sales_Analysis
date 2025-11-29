@@ -21,4 +21,3 @@ This project focuses on analyzing sales and customer data to derive actionable i
 
 ---
 
-**Note**: This project is for educational/portfolio purposes. Ensure you have proper authorization before using any proprietary data.
